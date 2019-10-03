@@ -1,5 +1,5 @@
 # vue-fancy-button
 A fancy button plugin for vuejs 
 
-#Installation
+###Installation
 npm i vue-fancy-button
