@@ -1,0 +1,22 @@
+{
+  "private": false,
+  "name": "vue-fancy-button",
+  "version": "0.0.1",
+  "description": "A vuejs fancy button plugin done for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vue serve NiceHandsomeButton.vue",
+    "build": "bili --name index --plugin vue --vue.css false",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "author": "Pavloski Igor",
+  "license": "MIT",
+  "devDependencies": {
+    "bili": "^4.8.1",
+    "rollup-plugin-vue": "^5.0.1",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
